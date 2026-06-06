@@ -4,7 +4,7 @@ key user_key;
 key blank = TEXTURE_BLANK;
 string name;
 string status;
-intheger face =3;
+integer face =3;
 
 
 default
